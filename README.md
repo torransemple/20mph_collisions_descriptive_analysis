@@ -24,7 +24,7 @@ The relevant traffic data were derived from the Department for Transport's (DfT)
 
 ## Repository Contents
 
-* **`code`:** Contains an R Markdown file with the code for the descriptive analysis (i.e., a sequence of visualisations).
+* **`code`:** Contains an R Markdown file with the code for the descriptive analysis: a sequence of visualisations followed by statistical tests.
     * `collision_severity_descriptive_analysis.Rmd` contains R code to reproduce traffic volume and RTC visualisations.
 * **`data`:** Contains the processed datasets used for the analysis. (Note: These are directly readable from the GitHub repository).
     * `ED_GLA_collisions_traffic_summary.csv`contains summary RTC and traffic stats for Edinburgh and Glasgow over the study period.
