@@ -1,8 +1,8 @@
-# A Descriptive Analysis of Road Traffic Collision Frequency and Severity pre- and post-20mph Implementation in Edinburgh and Glasgow
+# An Exploratory Analysis of Road Traffic Collision Frequency and Severity pre- and post-20mph Implementation in Edinburgh and Glasgow
 
 ## Project Overview
 
-This project descriptively analyses road traffic collisions (RTCs) pre- and post-20mph implementation in Edinburgh and Glasgow. The analysis was motivated by recent changes to traffic calming policy in both cities:
+This project analyses road traffic collisions (RTCs) pre- and post-20mph implementation in Edinburgh and Glasgow. The analysis was motivated by recent changes to traffic calming policy in both cities:
 
 * **Edinburgh:** A citywide, blanket 20mph speed limit was introduced on all city center roads from 2016 onwards.
 * **Glasgow:** Expanded its network of 20mph roads in 2016, but the approach was less radical than that adopted in Edinburgh.
